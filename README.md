@@ -11,5 +11,8 @@ Commodore 64 output programs are made in *GTK3VICE-3.8-win64* emulator, stored i
 The converted *.txt files are converted from *.prg using DirMaster to view code in a readable format.
 
 ## Python
-Python output programs are made in *Spyder*, and IDE for Python
+Python output programs are made in *Spyder*, an IDE for Python
+
+## Ada
+Ada output programs are made in *Alire*, an open-source package manager for Ada
 ### NOTE: Note all coding in these output files are made by myself
